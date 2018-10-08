@@ -1,4 +1,18 @@
-{
-  "a" : "first character",
-  "b" : "second character"
-}
+[
+  {
+    "term": "LAC",
+    "definition": "Looked After Child"
+  },
+  {
+    "term": "LAC Review",
+    "definition": "A review for a looked after child, run by a reviewing officer, and often includes the child's social worker and school"
+  },
+  {
+    "term": "PEP",
+    "definition": "Personal Enducation Plan. A meeting, usually held at the school. Offically, a meeting to decide how to spend the Pupil Premium. Realistically, a bonus parents' evening."
+  },
+  {
+    "term": "Form F",
+    "definition": "Old term for the report about a child's history. Now called a CPR."
+  }
+]
